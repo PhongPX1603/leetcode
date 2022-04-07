@@ -1,4 +1,4 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum/)
+# [1. Two Sum](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1.%20Two%20Sum.py)
 ```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -25,7 +25,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-# [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+# [442. Find All Duplicates in an Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)
 ```
 Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears once or twice, return an array of all the integers that appears twice.
 
@@ -49,7 +49,7 @@ Input: nums = [1]
 Output: []
 ```
 
-# [268. Missing Number](https://leetcode.com/problems/missing-number/)
+# [268. Missing Number](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/268.%20Missing%20Number.py)
 ```
 Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
@@ -74,7 +74,7 @@ Output: 8
 Explanation: n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
 ```
 
-# [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+# [896. Monotonic Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/896.%20Monotonic%20Array.py)
 ```
 An array is monotonic if it is either monotone increasing or monotone decreasing.
 
@@ -100,7 +100,7 @@ Input: nums = [1,3,2]
 Output: false
 ```
 
-# [15. 3Sum](https://leetcode.com/problems/3sum/)
+# [15. 3Sum](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/15.%203Sum.py)
 ```
 Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
@@ -124,7 +124,7 @@ Input: nums = [0]
 Output: []
 ```
 
-# [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
+# [1679. Max Number of K-Sum Pairs](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py)
 ```
 You are given an integer array nums and an integer k.
 
@@ -152,7 +152,7 @@ Explanation: Starting with nums = [3,1,3,4,3]:
 There are no more pairs that sum up to 6, hence a total of 1 operation.
 ```
 
-# [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+# [1051. Height Checker](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1051.%20Height%20Checker.py)
 ```
 A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in non-decreasing order by height. Let this ordering be represented by the integer array expected where expected[i] is the expected height of the ith student in line.
 
@@ -190,7 +190,7 @@ expected: [1,2,3,4,5]
 All indices match.
 ```
 
-# [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+# [1324. Print Words Vertically](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1324.%20Print%20Words%20Vertically.py)
 ```
 Given a string s. Return all the words vertically in the same order in which they appear in s.
 Words are returned as a list of strings, complete with spaces when is necessary. (Trailing spaces are not allowed).
@@ -222,7 +222,7 @@ Input: s = "CONTEST IS COMING"
 Output: ["CIC","OSO","N M","T I","E N","S G","T"]
 ```
 
-3 [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+# [189. Rotate Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/189.%20Rotate%20Array.py)
 ```
 Given an array, rotate the array to the right by k steps, where k is non-negative.
 
@@ -246,7 +246,7 @@ rotate 1 steps to the right: [99,-1,-100,3]
 rotate 2 steps to the right: [3,99,-1,-100]
 ```
 
-# [566. Reshape the Matrix]()
+# [566. Reshape the Matrix](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/566.%20Reshape%20the%20Matrix.py)
 ```
 In MATLAB, there is a handy function called reshape which can reshape an m x n matrix into a new one with a different size r x c keeping its original data.
 
@@ -259,17 +259,19 @@ If the reshape operation with given parameters is possible and legal, output the
  
 
 Example 1:
+![566_1](https://user-images.githubusercontent.com/86842861/162228774-c9872054-03e4-402a-a523-b3ef9a23a353.jpg)
 
 Input: mat = [[1,2],[3,4]], r = 1, c = 4
 Output: [[1,2,3,4]]
 
 Example 2:
+![566_2](https://user-images.githubusercontent.com/86842861/162228811-58a5dbe2-ea23-4fbe-b3e3-fe5b64ad1200.jpg)
 
 Input: mat = [[1,2],[3,4]], r = 2, c = 4
 Output: [[1,2],[3,4]]
 ```
 
-# [1572. Matrix Diagonal Sum]()
+# [1572. Matrix Diagonal Sum](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1572.%20Matrix%20Diagonal%20Sum.py)
 ```
 Given a square matrix mat, return the sum of the matrix diagonals.
 
@@ -278,6 +280,7 @@ Only include the sum of all the elements on the primary diagonal and all the ele
  
 
 Example 1:
+![1572](https://user-images.githubusercontent.com/86842861/162228865-4b6e19bb-8e8d-472f-8173-bf99cd20964d.png)
 
 Input: mat = [[1,2,3],
               [4,5,6],
@@ -300,7 +303,7 @@ Input: mat = [[5]]
 Output: 5
 ```
 
-# [238. Product of Array Except Self]()
+# [238. Product of Array Except Self](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/238.%20Product%20of%20Array%20Except%20Self.py)
 ```
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
@@ -321,7 +324,7 @@ Input: nums = [-1,1,0,-3,3]
 Output: [0,0,9,0,0]
 ```
 
-# [448. Find All Numbers Disappeared in an Array]()
+# [448. Find All Numbers Disappeared in an Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)
 ```
 Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums.
 
