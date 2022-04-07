@@ -1,4 +1,4 @@
-# [169. Majority Element](https://leetcode.com/problems/majority-element/)
+# [169. Majority Element](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/169_Majority_Element.py)
 
 ```
 Given an array nums of size n, return the majority element.
@@ -17,7 +17,7 @@ Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 ```
 
-# [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/discuss/)
+# [1480. Running Sum of 1d Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/1480.%20Running%20Sum%20of%201d%20Array.py)
 ```
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
@@ -41,7 +41,7 @@ Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
 ```
 
-# [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+# [242. Valid Anagram](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/242.%20Valid%20Anagram.py)
 ```
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
@@ -58,7 +58,7 @@ Input: s = "rat", t = "car"
 Output: false
 ```
 
-# [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+# [7. Reverse Integer](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/7.%20Reverse%20Integer.py)
 ```
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
@@ -82,7 +82,7 @@ Input: x = 120
 Output: 21
 ```
 
-# [66. Plus One](https://leetcode.com/problems/plus-one/)
+# [66. Plus One](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/66.%20Plus%20One.py)
 ```
 You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.
 
@@ -115,7 +115,7 @@ Incrementing by one gives 9 + 1 = 10.
 Thus, the result should be [1,0].
 ```
 
-# [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+# [118. Pascal's Triangle](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/118.%20Pascal's%20Triangle.py)
 ```
 Given an integer numRows, return the first numRows of Pascal's triangle.
 
@@ -136,7 +136,7 @@ Input: numRows = 1
 Output: [[1]]
 ```
 
-# [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+# [238. Product of Array Except Self](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/238.%20Product%20of%20Array%20Except%20Self.py)
 ```
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
@@ -157,7 +157,7 @@ Input: nums = [-1,1,0,-3,3]
 Output: [0,0,9,0,0]
 ```
 
-# [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+# [1295. Find Numbers with Even Number of Digits](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/bigO/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)
 ```
 Given an array nums of integers, return how many of them contain an even number of digits.
 
