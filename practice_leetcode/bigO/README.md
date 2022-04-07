@@ -1,4 +1,4 @@
-# 169. Majority Element
+# [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
 ```
 Given an array nums of size n, return the majority element.
@@ -17,7 +17,7 @@ Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 ```
 
-# 1480. Running Sum of 1d Array
+# [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/discuss/)
 ```
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 
@@ -41,7 +41,7 @@ Input: nums = [3,1,2,10,1]
 Output: [3,4,6,16,17]
 ```
 
-# 242. Valid Anagram
+# [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 ```
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
