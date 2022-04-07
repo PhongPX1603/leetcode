@@ -1,4 +1,4 @@
-# [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+# [345. Reverse Vowels of a String](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/345.%20Reverse%20Vowels%20of%20a%20String.py)
 ```
 Given a string s, reverse only all the vowels in the string and return it.
 
@@ -17,7 +17,7 @@ Input: s = "leetcode"
 Output: "leotcede"
 ```
 
-# [541. Reverse String II]
+# [541. Reverse String II](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/541.%20Reverse%20String%20II.py)
 ```
 Given a string s and an integer k, reverse the first k characters for every 2k characters counting from the start of the string.
 
@@ -36,7 +36,7 @@ Input: s = "abcd", k = 2
 Output: "bacd"
 ```
 
-# [1347. Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
+# [1347. Minimum Number of Steps to Make Two Strings Anagram](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.py)
 ```
 You are given two strings of the same length s and t. In one step you can choose any character of t and replace it with another character.
 
@@ -65,7 +65,7 @@ Output: 0
 Explanation: "anagram" and "mangaar" are anagrams. 
 ```
 
-# [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+# [125. Valid Palindrome](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/125.%20Valid%20Palindrome.py)
 ```
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
@@ -93,7 +93,7 @@ Explanation: s is an empty string "" after removing non-alphanumeric characters.
 Since an empty string reads the same forward and backward, it is a palindrome.
 ```
 
-# [290. Word Pattern](https://leetcode.com/problems/word-pattern/)
+# [290. Word Pattern](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/290.%20Word%20Pattern.py)
 ```
 Given a pattern and a string s, find if s follows the same pattern.
 
@@ -136,7 +136,7 @@ Input: address = "255.100.50.0"
 Output: "255[.]100[.]50[.]0"
 ```
 
-# [1247. Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/)
+# [1247. Minimum Swaps to Make Strings Equal](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1108.%20Defanging%20an%20IP%20Address.py)
 ```
 You are given two strings s1 and s2 of equal length consisting of letters "x" and "y" only. Your task is to make these two strings equal to each other. You can swap any two characters that belong to different strings, which means: swap s1[i] and s2[j].
 
@@ -164,7 +164,7 @@ Input: s1 = "xx", s2 = "xy"
 Output: -1
 ```
 
-# [1410. HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/)
+# [1410. HTML Entity Parser](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1410.%20HTML%20Entity%20Parser.py)
 ```
 HTML entity parser is the parser that takes HTML code as input and replace all the entities of the special characters by the characters itself.
 
@@ -194,7 +194,7 @@ Input: text = "and I quote: &quot;...&quot;"
 Output: "and I quote: \"...\""
 ```
 
-# [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+# [1221. Split a String in Balanced Strings](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1221.%20Split%20a%20String%20in%20Balanced%20Strings.py)
 ```
 Balanced strings are those that have an equal quantity of 'L' and 'R' characters.
 
@@ -223,7 +223,7 @@ Output: 1
 Explanation: s can be split into "LLLLRRRR".
 ```
 
-# [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
+# [1614. Maximum Nesting Depth of the Parentheses](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py)
 ```
 A string is a valid parentheses string (denoted VPS) if it meets one of the following:
 
@@ -254,7 +254,7 @@ Input: s = "(1)+((2))+(((3)))"
 Output: 3
 ```
 
-# [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+# [791. Custom Sort String](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/791.%20Custom%20Sort%20String.py)
 ```
 You are given two strings order and s. All the words of order are unique and were sorted in some custom order previously.
 
@@ -278,7 +278,7 @@ Input: order = "cbafg", s = "abcd"
 Output: "cbad"
 ```
 
-# [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+# [844. Backspace String Compare](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/844.%20Backspace%20String%20Compare.py)
 ```
 Given two strings s and t, return true if they are equal when both are typed into empty text editors. '#' means a backspace character.
 
@@ -305,7 +305,7 @@ Output: false
 Explanation: s becomes "c" while t becomes "b".
 ```
 
-# [1433. Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/)
+# [1433. Check If a String Can Break Another String](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1433.%20Check%20If%20a%20String%20Can%20Break%20Another%20String.py)
 ```
 Given two strings: s1 and s2 with the same size, check if some permutation of string s1 can break some permutation of string s2 or vice-versa. In other words s2 can break s1 or vice-versa.
 
@@ -331,7 +331,7 @@ Input: s1 = "leetcodee", s2 = "interview"
 Output: true
 ```
 
-# [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+# [524. Longest Word in Dictionary through Deleting](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.py)
 ```
 Given a string s and a string array dictionary, return the longest string in the dictionary that can be formed by deleting some of the given string characters. If there is more than one possible result, return the longest word with the smallest lexicographical order. If there is no possible result, return the empty string.
 
@@ -348,7 +348,7 @@ Input: s = "abpcplea", dictionary = ["a","b","c"]
 Output: "a"
 ```
 
-# [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+# [459. Repeated Substring Pattern](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/459.%20Repeated%20Substring%20Pattern.py)
 ```
 Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
 
@@ -372,7 +372,7 @@ Output: true
 Explanation: It is the substring "abc" four times or the substring "abcabc" twice.
 ```
 
-# [1566. Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/)
+# [1566. Detect Pattern of Length M Repeated K or More Times](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/1566.%20Detect%20Pattern%20of%20Length%20M%20Repeated%20K%20or%20More%20Times.py)
 ```
 Given an array of positive integers arr, find a pattern of length m that is repeated k or more times.
 
@@ -401,7 +401,7 @@ Output: false
 Explanation: The pattern (1,2) is of length 2 but is repeated only 2 times. There is no pattern of length 2 that is repeated 3 or more times.
 ```
 
-# [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+# [13. Roman to Integer](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/13.%20Roman%20to%20Integer.py)
 ```
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
@@ -443,7 +443,7 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
-# [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+# [12. Integer to Roman](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/12.%20Integer%20to%20Roman.py)
 ```
 Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
@@ -486,7 +486,7 @@ Output: "MCMXCIV"
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ```
 
-# [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+# [344. Reverse String](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/344.%20Reverse%20String.py)
 ```
 Write a function that reverses a string. The input string is given as an array of characters s.
 
@@ -505,7 +505,7 @@ Input: s = ["H","a","n","n","a","h"]
 Output: ["h","a","n","n","a","H"]
 ```
 
-# [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+# [557. Reverse Words in a String III](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/string/557.%20Reverse%20Words%20in%20a%20String%20III.py)
 ```
 Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
