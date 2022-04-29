@@ -340,3 +340,121 @@ Example 2:
 Input: nums = [1,1]
 Output: [2]
 ```
+
+# [1248. Count Number of Nice Subarrays]()
+```
+Given an array of integers nums and an integer k. A continuous subarray is called nice if there are k odd numbers on it.
+
+Return the number of nice sub-arrays.
+
+ 
+
+Example 1:
+
+Input: nums = [1,1,2,1,1], k = 3
+Output: 2
+Explanation: The only sub-arrays with 3 odd numbers are [1,1,2,1] and [1,2,1,1].
+
+Example 2:
+
+Input: nums = [2,4,6], k = 1
+Output: 0
+Explanation: There is no odd numbers in the array.
+
+Example 3:
+
+Input: nums = [2,2,2,1,2,2,1,2,2,2], k = 2
+Output: 16
+```
+
+# [299. Bulls and Cows]()
+```
+You are playing the Bulls and Cows game with your friend.
+
+You write down a secret number and ask your friend to guess what the number is. When your friend makes a guess, you provide a hint with the following info:
+
+The number of "bulls", which are digits in the guess that are in the correct position.
+The number of "cows", which are digits in the guess that are in your secret number but are located in the wrong position. Specifically, the non-bull digits in the guess that could be rearranged such that they become bulls.
+Given the secret number secret and your friend's guess guess, return the hint for your friend's guess.
+
+The hint should be formatted as "xAyB", where x is the number of bulls and y is the number of cows. Note that both secret and guess may contain duplicate digits.
+
+ 
+
+Example 1:
+
+Input: secret = "1807", guess = "7810"
+Output: "1A3B"
+Explanation: Bulls are connected with a '|' and cows are underlined:
+"1807"
+  |
+"7810"
+
+Example 2:
+
+Input: secret = "1123", guess = "0111"
+Output: "1A1B"
+Explanation: Bulls are connected with a '|' and cows are underlined:
+"1123"        "1123"
+  |      or     |
+"0111"        "0111"
+Note that only one of the two unmatched 1s is counted as a cow since the non-bull digits can only be rearranged to allow one 1 to be a bull.
+```
+
+# [763. Partition Labels]()
+```
+You are given a string s. We want to partition the string into as many parts as possible so that each letter appears in at most one part.
+
+Note that the partition is done so that after concatenating all the parts in order, the resultant string should be s.
+
+Return a list of integers representing the size of these parts.
+
+ 
+
+Example 1:
+
+Input: s = "ababcbacadefegdehijhklij"
+Output: [9,7,8]
+Explanation:
+The partition is "ababcbaca", "defegde", "hijhklij".
+This is a partition so that each letter appears in at most one part.
+A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits s into less parts.
+
+Example 2:
+
+Input: s = "eccbbbbdec"
+Output: [10]
+```
+
+# [1672. Richest Customer Wealth]()
+```
+You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i(th) customer has in the j(th) bank. Return the wealth that the richest customer has.
+
+A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
+
+ 
+
+Example 1:
+
+Input: accounts = [[1,2,3],[3,2,1]]
+Output: 6
+Explanation:
+1st customer has wealth = 1 + 2 + 3 = 6
+2nd customer has wealth = 3 + 2 + 1 = 6
+Both customers are considered the richest with a wealth of 6 each, so return 6.
+
+Example 2:
+
+Input: accounts = [[1,5],[7,3],[3,5]]
+Output: 10
+Explanation: 
+1st customer has wealth = 6
+2nd customer has wealth = 10 
+3rd customer has wealth = 8
+The 2nd customer is the richest with a wealth of 10.
+
+Example 3:
+
+Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
+Output: 17
+```
