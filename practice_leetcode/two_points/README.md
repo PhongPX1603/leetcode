@@ -1,4 +1,4 @@
-# [845. Longest Mountain in Array]()
+# [845. Longest Mountain in Array](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/845.%20Longest%20Mountain%20in%20Array.py)
 ```
 You may recall that an array arr is a mountain array if and only if:
 
@@ -23,7 +23,7 @@ Output: 0
 Explanation: There is no mountain.
 ```
 
-# [1004. Max Consecutive Ones III]()
+# [1004. Max Consecutive Ones III](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/1004.%20Max%20Consecutive%20Ones%20III.py)
 ```
 Given a binary array nums and an integer k, return the maximum number of consecutive 1's in the array if you can flip at most k 0's.
 
@@ -44,7 +44,7 @@ Explanation: [0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1]
 Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 ```
 
-# [350. Intersection of Two Arrays II]()
+# [350. Intersection of Two Arrays II](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/350.%20Intersection%20of%20Two%20Arrays%20II.py)
 ```
 Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
 
@@ -62,7 +62,7 @@ Output: [4,9]
 Explanation: [9,4] is also accepted.
 ```
 
-# [1640. Check Array Formation Through Concatenation]()
+# [1640. Check Array Formation Through Concatenation](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/1640.%20Check%20Array%20Formation%20Through%20Concatenation.py)
 ```
 You are given an array of distinct integers arr and an array of integer arrays pieces, where the integers in pieces are distinct. Your goal is to form arr by concatenating the arrays in pieces in any order. However, you are not allowed to reorder the integers in each array pieces[i].
 
@@ -89,7 +89,7 @@ Output: true
 Explanation: Concatenate [91] then [4,64] then [78]
 ```
 
-# [560. Subarray Sum Equals K]()
+# [560. Subarray Sum Equals K](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/560.%20Subarray%20Sum%20Equals%20K.py)
 ```
 Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
 
@@ -106,7 +106,7 @@ Input: nums = [1,2,3], k = 3
 Output: 2
 ```
 
-# [1234. Replace the Substring for Balanced String]()
+# [1234. Replace the Substring for Balanced String](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/two_points/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.py)
 ```
 You are given a string s of length n containing only four kinds of characters: 'Q', 'W', 'E', and 'R'.
 

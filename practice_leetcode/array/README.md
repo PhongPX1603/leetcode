@@ -341,7 +341,7 @@ Input: nums = [1,1]
 Output: [2]
 ```
 
-# [1248. Count Number of Nice Subarrays]()
+# [1248. Count Number of Nice Subarrays](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1248.%20Count%20Number%20of%20Nice%20Subarrays.py)
 ```
 Given an array of integers nums and an integer k. A continuous subarray is called nice if there are k odd numbers on it.
 
@@ -367,7 +367,7 @@ Input: nums = [2,2,2,1,2,2,1,2,2,2], k = 2
 Output: 16
 ```
 
-# [299. Bulls and Cows]()
+# [299. Bulls and Cows](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/299.%20Bulls%20and%20Cows.py)
 ```
 You are playing the Bulls and Cows game with your friend.
 
@@ -401,7 +401,7 @@ Explanation: Bulls are connected with a '|' and cows are underlined:
 Note that only one of the two unmatched 1s is counted as a cow since the non-bull digits can only be rearranged to allow one 1 to be a bull.
 ```
 
-# [763. Partition Labels]()
+# [763. Partition Labels](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/763.%20Partition%20Labels.py)
 ```
 You are given a string s. We want to partition the string into as many parts as possible so that each letter appears in at most one part.
 
@@ -426,7 +426,7 @@ Input: s = "eccbbbbdec"
 Output: [10]
 ```
 
-# [1672. Richest Customer Wealth]()
+# [1672. Richest Customer Wealth](https://github.com/PhongPX1603/leetcode/blob/master/practice_leetcode/array/1672.%20Richest%20Customer%20Wealth.py)
 ```
 You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i(th) customer has in the j(th) bank. Return the wealth that the richest customer has.
 
